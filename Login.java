@@ -1,4 +1,4 @@
 public class Login
 {
-	System.out.println()
+	System.out.println("Hello world!")
 }
